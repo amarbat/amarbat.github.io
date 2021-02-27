@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd9081d0.chunk.css",
+    "main.js": "/static/js/main.6133be06.chunk.js",
+    "main.js.map": "/static/js/main.6133be06.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c2b20a0b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c2b20a0b.js.map",
+    "static/js/2.0ed19bf3.chunk.js": "/static/js/2.0ed19bf3.chunk.js",
+    "static/js/2.0ed19bf3.chunk.js.map": "/static/js/2.0ed19bf3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.51040255f03cb137d7dd1f349b2a4803.js": "/precache-manifest.51040255f03cb137d7dd1f349b2a4803.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fd9081d0.chunk.css.map": "/static/css/main.fd9081d0.chunk.css.map",
+    "static/js/2.0ed19bf3.chunk.js.LICENSE.txt": "/static/js/2.0ed19bf3.chunk.js.LICENSE.txt",
+    "static/media/GITHUBLOGO.png": "/static/media/GITHUBLOGO.cefc2023.png",
+    "static/media/JAVA.png": "/static/media/JAVA.96eb2002.png",
+    "static/media/LINKEDINICON.png": "/static/media/LINKEDINICON.1c72a7b0.png",
+    "static/media/MONGO.png": "/static/media/MONGO.09ed2051.png",
+    "static/media/NODEJS.png": "/static/media/NODEJS.0d8ed365.png",
+    "static/media/Pic.jpg": "/static/media/Pic.cfe08d2f.jpg",
+    "static/media/REACT.png": "/static/media/REACT.df70b005.png",
+    "static/media/REST.png": "/static/media/REST.815f4078.png",
+    "static/media/Web-Developer.jpg": "/static/media/Web-Developer.218124dd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2b20a0b.js",
+    "static/js/2.0ed19bf3.chunk.js",
+    "static/css/main.fd9081d0.chunk.css",
+    "static/js/main.6133be06.chunk.js"
+  ]
+}
