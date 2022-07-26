@@ -75,16 +75,20 @@ img {
 }
 
 .main-section {
-  margin: 20px 0;
+  margin: 35px 0;
   box-shadow: 0 0 10px 0 #d6d6d6;
-  padding: 10px;
+  /*padding: 10px;*/
   border-radius: 1px;
 }
 
 .section-title {
   font-size: 18px;
   font-weight: bold;
-  color: #5a5a5a;
+  color: #3d3d3d;
+  display: inline-block;
+  background-color: #cecece;
+  padding: 10px;
+  border-bottom-right-radius: 5px;
 }
 
 .profession-item {
@@ -149,9 +153,10 @@ img {
 }
 
 .fav-book-title {
-  padding: 5px;
+  padding: 20px 10px;
   font-size: 18px;
   font-weight: bold;
+  min-height: 80px;
 }
 
 .fav-book-description {
@@ -169,6 +174,15 @@ img {
 
 .nav-contact a img {
   max-width: 100%;
+}
+
+.divided-section {
+  margin: 20px 0;
+}
+
+.fav-book-image img {
+  min-height: 350px;
+  max-height: 350px;
 }
 
 @media only screen and (max-width: 1000px) {
